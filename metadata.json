@@ -1,0 +1,6 @@
+{
+  "name": "Columbia Apartments - Premium Accommodation Auckland",
+  "description": "Comfortable apartment living in the heart of Auckland. Book your stay at Columbia Apartments, 15 Whitaker Place, Grafton, Auckland.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
